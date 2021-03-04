@@ -6,26 +6,26 @@
 import emoji from "react-easy-emoji";
  
 const Greeting = {
-    userName: 'Hasnat Amir',
-    title: emoji('Hasnat Amir 💻'),
-    subTitle: 'MERN Stack Web dev | React-Native Mobile dev',
+    userName: 'Ali Raza',
+    title: emoji('Ali Raza 💻'),
+    subTitle: 'Flutter App Developer',
     resumeLink: 'https://drive.google.com/file/d/1mCzbiCb007_q9CVNEbh1ClC2YR1Kk_bU/view?usp=sharing',
     socialLink:[
         {
             icon: ['fab', 'twitter'],
-            link: 'https://twitter.com/HasnatAmir2',
+            link: 'https://twitter.com/alirzadev',
             tooltip: 'Twitter',
             bgColor: '#00acee',
         },
         {
             icon: ['fab', 'github'],
-            link: 'https://github.com/hasnatamir2',
+            link: 'https://github.com/alirzadev',
             tooltip: 'Github',
             bgColor: '#211F1F',
         },
         {
             icon: ['fab', 'linkedin-in'],
-            link: 'https://www.linkedin.com/in/hasnat-amir-a5a266175/',
+            link: 'https://www.linkedin.com/in/alirzadev/',
             tooltip: 'LinkedIn',
             bgColor: '#0e76a8',
         },
@@ -39,53 +39,55 @@ const socialLink = [
     
     {
         icon: ['fab', 'facebook-f'],
-        link: 'https://web.facebook.com/Mhasnatamir/',
+        link: 'https://web.facebook.com/alirzadevv',
         tooltip: 'Facebook',
         bgColor: '#3b5998',
     },
     {
         icon: ['fab', 'twitter'],
-        link: 'https://twitter.com/HasnatAmir2',
+        link: 'https://twitter.com/alirzadev',
         tooltip: 'Twitter',
         bgColor: '#00acee',
     },
     {
         icon: ['fab', 'instagram'],
-        link: 'https://www.instagram.com/hasnatamir2/',
+        link: 'https://www.instagram.com/alirzadev/',
         tooltip: 'Instagram',
         bgColor: '#3f729b',
     },
     {
         icon: ['fab', 'github'],
-        link: 'https://github.com/hasnatamir2',
+        link: 'https://github.com/alirzadev',
         tooltip: 'Github',
         bgColor: '#211F1F',
     },
     {
         icon: ['fab', 'linkedin-in'],
-        link: 'https://www.linkedin.com/in/hasnat-amir-a5a266175/',
+        link: 'https://www.linkedin.com/in/alirzadev/',
         tooltip: 'LinkedIn',
         bgColor: '#0e76a8',
     },
     {
         icon: ['fab', 'google'],
-        link: 'mailto:hasnatamir2@gmail.com',
+        link: 'mailto:mraliryu@gmail.com',
         tooltip: 'Google',
         bgColor: '#FFA500',
     },
     {
         icon: ['fab', 'whatsapp'],
-        link: 'tel:+923084802849',
+        link: 'tel:+923317402528',
         tooltip: 'WhatsApp',
         bgColor: '#075e54',
     },
     
 ]
 
+
+// professional  and compendious expertise about flutter. Has savvy of handling versatile projects with Local and International clients.
 const aboutMe = {
-    name: 'Hasnat Amir',
+    name: 'Ali Raza',
     image: require("./assets/images/hasnatAmir.JPG"),
-    desc: 'I am a Web developer and a Mobile Developer currently studying in NUST, Pakistan. My main area of interest and work are Ecommerce development sometimes other cool stuff. My approach towards for my work is always minimalist and yet with coolest features and functionalities. Let’s make the best of it!',
+    desc: 'A software engineering currently studying at PUCIT, Pakistan. with knacks from UI to Code Implementation, Ecommerce development & a bit UX related experience.',
     resumeLink: 'https://drive.google.com/file/d/1mCzbiCb007_q9CVNEbh1ClC2YR1Kk_bU/view?usp=sharing',
 }
 
